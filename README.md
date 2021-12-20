@@ -1,2 +1,2 @@
 # Schoool-Management-System
-School Management System Mini-Project in JAVA, Mysql 
+School Management System Project in JAVA, Mysql 
